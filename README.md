@@ -71,3 +71,7 @@ Start development server:
 
 npm run dev
 Open http://localhost:5173 in your browser
+
+
+## Output
+![Image](https://github.com/user-attachments/assets/1cc210c5-bfc1-4440-94b0-a3db4be7f09e)
