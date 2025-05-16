@@ -1,5 +1,15 @@
 # 💬 Real-Time Chat Application (Frontend)
 
+
+## 🏢 Company: CodTech IT Solutions
+
+- **Intern Name:** Saurav Kumar  
+- **Intern ID:** CT06DA402  
+- **Domain:** Front-End Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh
+
+
 This is a responsive **real-time chat UI** built using **React.js** and **Tailwind CSS**. It simulates a modern messaging experience. This is the **frontend-only version**, perfect for integrating with any WebSocket or Socket.IO backend later.
 
 ---
